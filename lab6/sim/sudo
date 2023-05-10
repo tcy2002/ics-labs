@@ -1,0 +1,1 @@
+APT::Default-Release "buster"; /etc/apt/apt.conf.d/99stretch
